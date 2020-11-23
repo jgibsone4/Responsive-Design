@@ -1,3 +1,9 @@
+* {
+    background-color: silver;
+
+}
+
+
 .btn-primary:hover {
     background-color: teal;
     color: gold;
