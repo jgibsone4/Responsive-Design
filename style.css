@@ -1,5 +1,11 @@
-.btn btn-primary:hover {
-    background-color: orange;
+.btn-primary:hover {
+    background-color: teal;
     color: gold;
+    
+}
 
+
+
+h1 {
+    color: gold;
 }
