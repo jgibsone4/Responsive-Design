@@ -1,4 +1,4 @@
- 
+<!--  
 * Functional, deployed application
  
 * GitHub repository with README describing the project
@@ -19,4 +19,4 @@
  
 ### Bonus
  
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
+* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation). -->
