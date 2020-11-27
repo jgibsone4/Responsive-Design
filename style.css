@@ -1,29 +1,50 @@
-* {
-    background-color: silver;
-
+p {
+  color: orange;
 }
-
-
-.btn-primary:hover {
-    background-color: teal;
-    color: gold;
-    
-}
-
-
 
 h1 {
-    color: gold;
+font-family: cursive;
 }
 
-/* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-  
-  /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-  .sticky + .content {
-    padding-top: 60px;
-  }
+.navbar {
+  color: gold;
+  font-size: 20px;
+  font-weight: 250;
+}
+
+.nav-link {
+  color: gold;
+  font-size: 20px;
+  font-weight: 200;
+  background-color: darkblue;
+}
+
+.nav-link:active {
+  background-color: darkorange;
+  color: darkorange;
+}
+
+.card-body {
+  padding-top: 50px;
+}
+
+.nav-link {
+    text-align: center;
+}
+
+hr {
+    border-top: 2px solid rgba(0,0,0,.1);
+}
+
+.container {
+    padding: 50px;
+}
+
+img {
+    padding: 50px;
+}
+
+#pic {
+    width: 250px;
+    height: 250px;
+}

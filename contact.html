@@ -1,115 +1,137 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
 
-  
-   <!--  Bootstrap CSS -->
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-    
-   <!-- My stylesheet to override any bootstrap code -->
-   <link rel="stylesheet" href="style.css">
-
-
-    
-
-</head>
-<body>
-
-
-  <div class="card text-center"> 
-  
-    <div class="sticky-top"> <!-- Added Sticky nav bar (top) -->
-
-
-      <div class="card-header">    
-        <ul class="nav nav-tabs card-header-tabs">
-          <li class="nav-item">
-            <a class="nav-link" href="index.html">About Me</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" href="portfolio.html">Portfolio</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact</a> <!--  updated to active tab/portfolio -->
-          </li>
-        </ul>
-
+    <!--  Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+      integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2"
+      crossorigin="anonymous"
+    />
+    <!-- My stylesheet to override any bootstrap code -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="fixed-top">
+      <!-- fixed top -->
+      <nav class="navbar navbar-dark bg-dark">
+        Navbar<!-- Color scheme -->
+        <div class="card text-left">
+          <ul class="nav nav-pills nav-fill">
+            <!-- Navbar content -->
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="portfolio.html">Portfolio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="contact.html">Contact</a>
+              <!-- link active -->
+            </li>
+          </ul>
+        </div>
+      </nav>
     </div>
-  
+    <!-- End Navbar content -->
+    <!-- <container> -->
+    <br />
+    <!--  Column 1 -->
+    <!--  <div class = "container-fluid"> -->
+    <div class="container lead"> <!-- added lead -->
+      <div class="row">
+        <div class="col-md-6 text-center">
+          <div class="card-body">
+            <!-- E-mail Link/new tab -->
+            <h5 class="card-title"></h5>
+            <p class="card-text">
+              Feel free to E-mail me with any project suggestions.
+            </p>
+            <a
+              href="mailto:jgibsone4@gmail.com"
+              class="btn btn-primary"
+              target="blank"
+              >E-mail me</a
+            >
+          </div>
+          <div class="card-body">
+            <!-- LinkedIn Link/new tab -->
+            <h5 class="card-title"></h5>
+            <p class="card-text">
+              I've included my LinkedIn for you to connect with me.
+            </p>
+            <a
+              href="https://www.linkedin.com/in/jgibsone4/"
+              class="btn btn-primary"
+              target="blank"
+              >LinkedIn</a
+            >
+          </div>
+          <div class="card-body">
+            <!-- Facebook Link/new tab -->
+            <h5 class="card-title"></h5>
+            <p class="card-text">
+              I've included my Facebook for you to connect with me.
+            </p>
+            <a
+              href="https://www.facebook.com/jason.gibson.73307/"
+              class="btn btn-primary"
+              target="blank"
+              >Facebook</a
+            >
+          </div>s
+          <div class="card-body">
+            <!-- Instagram Link/new tab -->
+            <h5 class="card-title"></h5>
+            <p class="card-text">
+              I've included my Instagram for you to connect with me.
+            </p>
+            <a
+              href="https://www.instagram.com/jbeard75/"
+              class="btn btn-primary"
+              target="blank"
+              >Instagram</a
+            >
+          </div>
+        </div>
+        <!-- End of Column 1 -->
+        <!-- Column 2 -->
+        <div class="col-md-6">
+          <div class="card" style="width: 18rem">
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End of Column 2 -->
+     <!--  Start Footer -->
+ <div class="container">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <div class="sticky-top">
+       <div class="card-body ">
+        <footer id="sticky-footer" class="py-4 bg-dark text-white-50"><!--  Added row -->
+                       <blockquote class="blockquote-footer"> <!-- changed from blockquote mb-0 -->
+              <p>“I taught myself how to program computers when I was a kid, bought my first computer when I was 10, and sold my first commercial program when I was 12.”</p>
+              <footer class="blockquote-footer">- Elon Musk <cite title="Source Title">6 great quotes about the power of coding</cite></footer>
+            </blockquote>
+           </footer>
+          </div>
+        </div>
+        </div>
+      </div>
   </div>
-
-<!-- <container> -->
-
-  <div class="card-body">  <!-- E-mail Link/new tab -->
-    <h5 class="card-title">Email</h5>
-    <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis amet quo reiciendis similique modi, iure in cum soluta ipsum vero provident adipisci laboriosam eveniet sint ea quasi magnam velit minima..</p>
-    <a href="https://www.linkedin.com/in/jgibsone4/" class="btn btn-primary" target="blank">E-mail me</a>
-     
-     
-
-  <div class="card-body">  <!-- LinkedIn Link/new tab -->
-    <h5 class="card-title">LinkedIn</h5>
-    <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis amet quo reiciendis similique modi, iure in cum soluta ipsum vero provident adipisci laboriosam eveniet sint ea quasi magnam velit minima..</p>
-    <a href="https://www.linkedin.com/in/jgibsone4/" class="btn btn-primary" target="blank">LinkedIN</a>
-   <!-- added opens in new tab  --><!--  added hover in css-->
- 
- 
-  <div class="card w-75"> <!-- Facebook Link/new tab -->
-    <div class="card-body">
-      <h5 class="card-title">Facebook</h5>
-      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, quidem pariatur molestias maiores numquam quisquam eum commodi iusto sit excepturi nihil incidunt quasi, esse eligendi saepe explicabo molestiae inventore rem.</p>
-      <a href="https://www.facebook.com/jason.gibson.73307/" class="btn btn-primary">Facebook</a>
-    
-  </div>
-
-     <div class="card-body">  <!-- E-mail Link/new tab -->
-    <h5 class="card-title">Email</h5>
-    <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis amet quo reiciendis similique modi, iure in cum soluta ipsum vero provident adipisci laboriosam eveniet sint ea quasi magnam velit minima..</p>
-    <a href="https://www.linkedin.com/in/jgibsone4/" class="btn btn-primary" target="blank">E-mail me</a>
-          </div> 
-      </div>  
-    </div>
-  </div>   
-
-<!-- </container> -->
-  
-  <!-- <div class="card w-75">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-      <a href="#" class="btn btn-primary">Button</a>
-    </div>
-  </div> -->
-  
-  <!-- <div class="card w-50">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-      <a href="#" class="btn btn-primary">Button</a>
-    </div>
-  </div>
-
-  <div class="card w-75">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-      <a href="#" class="btn btn-primary">Button</a>
-    </div>
-  </div> -->
-  
- <!--  <div class="card w-50">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-      <a href="#" class="btn btn-primary">Button</a>
-    </div> -->
- 
-
-</div>
-
-
-</body>
+     <!--  End Footer -->
+  </body>
 </html>
