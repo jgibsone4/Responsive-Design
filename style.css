@@ -55,11 +55,13 @@ img {
 body {
     background-image: url("./Assets/background.jpg");
     background-size: cover;
-    height: 100%; 
+    height: 100%;
+    padding-top: 80px; 
+    padding-bottom: 80px;
 }
 
 
-/* 
+/*  
 .qte {
     color: blue;
     font-weight: lighter;
@@ -67,20 +69,26 @@ background-color: white;
 margin: 0;
 
     
+} */
+
+footer {
+    position: static;
+    height: 100px;
+       margin: auto;
+    
+    
 }
 
-#footer {
-    padding: 0;
-    margin: 0;
+.premier {
+  padding-left: 250px;
 }
- */
 
-.port {
+/* .port {
     padding-top: 50px;
     margin-top: 50px;
     /* height: 100%;
-    width: 100%; */
-}
+    width: 100%; 
+} */
 
 
 
