@@ -9,7 +9,8 @@
 
 ## Description 
 
-The motivation of this project was to improve the accessibility, and semantic structure of the website.  For example, the SEO was updated to help users that may be color-blind, and other users.  In addition, fix broken links using HTML & CSS, ensure headings followed a sequential .  The semantic structure included proper heading elements, and images clearly notated with alt wording.  The project was also built to modify the homepage appearance, and clearly indicate the purpose of each section.  **Potential Future client** work would include addressing Responsive Design that I added to issues.
+The motivation of this project was to gain hands-on experience designing a Responsive website with multiple pages to navigate to using a variety of devices without losing the ease of use for the end-user.  Through the utilization of Bootstrap I had to troubleshoot, and redesign the application to ensure responsive design, and validate the HTML.  I added a favicon to my pages to create a more appealing visual experience. In addition, this project allowed me to start being comfortable with describing myself, and finding solutions to problems on my own, or within my study-group.
+
 
 Deployed link:
 https://jgibsone4.github.io/Responsive-Design/
@@ -52,9 +53,9 @@ Favicon generator                               | https://favicon.io
 
 ## Contributing
 
-* [Submit bugs and feature requests](https://github.com/jgibsone4/jgibsone4.github.io/issues), and help us verify as they are checked in
-* Review [source code changes](https://github.com/jgibsone4/jgibsone4.github.io/pulls)
-* Review the [documentation](https://github.com/jgibsone4/jgibsone4.github.io) and make pull requests for anything from typos to new content
+* [Submit bugs and feature requests](https://github.com/jgibsone4/Responsive-Design/issues), and help us verify as they are checked in
+* Review [source code changes](https://github.com/jgibsone4/Responsive-Design/pulls)
+* Review the [documentation](https://github.com/jgibsone4/Responsive-Design) and make pull requests for anything from typos to new content
 
 
 ## Code of Conduct
