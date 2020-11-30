@@ -1,3 +1,8 @@
+h1 {
+  font-family: cursive;
+  padding-right: 50px;
+  }
+
 p {
   color: black;
   font-weight: bolder;
@@ -5,37 +10,30 @@ p {
   padding: 0;
 }
 
+img {
+  padding: 50px;
+}
 
-h1 {
-font-family: cursive;
-padding-right: 50px;
+blockquote.blockquote-footer {
+  background-color:peachpuff;
+  font-size: x-small;
 }
 
  footer {
  background-color:peachpuff;
 } 
  
-blockquote.blockquote-footer {
-  background-color:peachpuff;
-  font-size: x-small;
-}
-
 #sticky-footer {
   background-color:peachpuff;
   padding-top: 0rem!important;
   padding-bottom: 0rem!important;
-
  } 
 
  .navbar {
- /*  background-image: url("./Assets/background.jpg"); */
   color: gold;
   font-size: 20px;
   font-weight: 250;
-
- 
 }
-
 
 .nav-link {
   display: flex;
@@ -44,8 +42,8 @@ blockquote.blockquote-footer {
   font-weight: 200;
   background-color: lightgray;
   font-weight: bolder;
- 
-} 
+ } 
+
 a.nav-link{
   color: gold;
   font-weight: bolder;
@@ -55,82 +53,24 @@ a.nav-link{
   display: flex;
   background-color: darkorange;
   color: darkorange; 
- 
-  
-}
+ }
 
 .navbar-brand {
   color: gold;
   font-weight: bolder;
 }
 
-
-
-
 .card-body {
   padding-top: 50px;
 }
-
-
 
 hr {
     border-top: 2px solid rgba(0,0,0,.1);
 }
 
-
 .container {
     padding: 50px;
-    
 } 
 
-img {
-    padding: 50px;
-}
-/* 
-#pic {
-    width: 250px;
-    height: 250px;
-} */
 
-body {
-    background-image: url("./Assets/background.jpg");
-    background-size: cover;
-    height: 100%;
-    padding-top: 80px; 
-    padding-bottom: 80px;
-    
-}
-
-
-/*  
-.qte {
-    color: blue;
-    font-weight: lighter;
-background-color: white;
-margin: 0;
-    
-} */
-
-/* footer {
-    position: static;
-    height: 100px;
-       margin: auto;
-    
-    
-} */
-
-/* .premier {
-  padding-left: 250px;
-} */
-
-/* .port {
-    padding-top: 50px;
-    margin-top: 50px;
-    /* height: 100%;
-    width: 100%; 
-} */
-
-a {
-  color: gold;
-}
 
