@@ -28,7 +28,10 @@ https://jgibsone4.github.io/
 
 ## Usage 
 
-![Screenshot of Client Site](https://github.com/jgibsone4/jgibsone4-urhw2/tree/main/Assets/768-contact.png)
+![Screenshot of Client Site](https://github.com/jgibsone4/jgibsone4-urhw2/blob/main/Assets/768-contact.png)
+![Screenshot of Client Site](https://github.com/jgibsone4/jgibsone4-urhw2/blob/main/Assets/992-index.png)
+![Screenshot of Client Site](https://github.com/jgibsone4/jgibsone4-urhw2/blob/main/Assets/992-portfolio.png)
+
 
 
 ## Credits
