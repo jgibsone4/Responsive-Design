@@ -11,15 +11,22 @@ font-family: cursive;
 padding-right: 50px;
 }
 
-footer {
-  background-image: url("./Assets/background.jpg");
+ footer {
+ background-color:peachpuff;
+} 
  
+blockquote.blockquote-footer {
+  background-color:peachpuff;
 }
+#sticky-footer {
+  background-color:peachpuff;
+  padding-top: 0rem!important;
+  padding-bottom: 0rem!important;
 
-
+ } 
 
  .navbar {
-  background-image: url("./Assets/background.jpg");
+ /*  background-image: url("./Assets/background.jpg"); */
   color: gold;
   font-size: 20px;
   font-weight: 250;
