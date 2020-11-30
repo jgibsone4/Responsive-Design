@@ -18,7 +18,7 @@ https://jgibsone4.github.io/Responsive-Design/
 
 ## Table of Contents
 
-* [Title](#responsiv-design)
+* [Title](#responsive-design)
 * [Description](#description)
 * [Usage](#usage)
 * [Credits](#credits)
