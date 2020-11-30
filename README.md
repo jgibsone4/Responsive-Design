@@ -4,7 +4,7 @@
 
 ---
 
-# About Me
+# Responsive Design
 
 
 ## Description 
@@ -12,12 +12,12 @@
 The motivation of this project was to improve the accessibility, and semantic structure of the website.  For example, the SEO was updated to help users that may be color-blind, and other users.  In addition, fix broken links using HTML & CSS, ensure headings followed a sequential .  The semantic structure included proper heading elements, and images clearly notated with alt wording.  The project was also built to modify the homepage appearance, and clearly indicate the purpose of each section.  **Potential Future client** work would include addressing Responsive Design that I added to issues.
 
 Deployed link:
-TBD
+https://jgibsone4.github.io/Responsive-Design/
 
 
 ## Table of Contents
 
-* [Title](#aboutme)
+* [Title](#responsiv-design)
 * [Description](#description)
 * [Usage](#usage)
 * [Credits](#credits)
@@ -27,6 +27,8 @@ TBD
 
 
 ## Usage 
+
+I have attached screenshots that I referenced for my project.
 
 ![Screenshot of Client Site](https://github.com/jgibsone4/jgibsone4-urhw2/blob/main/Assets/768-contact.png)
 ![Screenshot of Client Site](https://github.com/jgibsone4/jgibsone4-urhw2/blob/main/Assets/992-index.png)
@@ -45,7 +47,7 @@ J.K. Royston                                    | https://github.com/jxhnkndl
 Tutorials/Info                                  | Link
 ------------                                    | -------------
 Free images                                     | https://unsplash.com 
-                                                | 
+Favicon generator                               | https://favicon.io
 
 
 ## Contributing
