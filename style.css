@@ -11,23 +11,36 @@ font-family: cursive;
 padding-right: 50px;
 }
 
-
- .navbar {
-  /* background-image: url("./Assets/background.jpg"); */
-  color: gold;
-  font-size: 20px;
-  font-weight: 250;
+footer {
+  background-image: url("./Assets/background.jpg");
  
 }
 
-.nav-link {
-   display: flex;
+
+
+ .navbar {
+  background-image: url("./Assets/background.jpg");
   color: gold;
-font-size: 20px;
+  font-size: 20px;
+  font-weight: 250;
+
+ 
+}
+
+
+.nav-link {
+  display: flex;
+  color: gold;
+  font-size: 20px;
   font-weight: 200;
-  background-color: darkblue;
+  background-color: lightgray;
+  font-weight: bolder;
  
 } 
+a.nav-link{
+  color: gold;
+  font-weight: bolder;
+}
 
 .nav-link:active {
   display: flex;
@@ -36,6 +49,13 @@ font-size: 20px;
  
   
 }
+
+.navbar-brand {
+  color: gold;
+  font-weight: bolder;
+}
+
+
 
 
 .card-body {
@@ -69,6 +89,7 @@ body {
     height: 100%;
     padding-top: 80px; 
     padding-bottom: 80px;
+    
 }
 
 
