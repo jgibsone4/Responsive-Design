@@ -9,7 +9,7 @@
 
 ## Description 
 
-The motivation of this project was to gain hands-on experience designing a Responsive website with multiple pages to navigate to using a variety of devices without losing the ease of use for the end-user.  Through the utilization of Bootstrap I had to troubleshoot, and redesign the application to ensure responsive design, and validate the HTML.  I added a favicon to my pages to create a more appealing visual experience. In addition, this project allowed me to start being comfortable with describing myself, and finding solutions to problems on my own, or within my study-group.
+The motivation of this project was to gain hands-on experience designing a Responsive website with multiple pages to navigate to using a variety of devices without losing the ease of use for the end-user.  Through the utilization of Bootstrap I had to troubleshoot and redesign the application to ensure responsive design, validate the HTML, functionality with multiple screen sizes.  I added a favicon to my pages to create a more appealing visual experience. In addition, this project allowed me to start being comfortable with describing myself, and finding solutions to problems on my own, or within my study-group.
 
 
 Deployed link:
